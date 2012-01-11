@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3DataStructure>
+	<meta>
+		<langDisable>1</langDisable>
+	</meta>
+	<sheets>
+		<!-- Sheet General: General settings for the plugin -->
+		<sGeneral>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:incore_twitter/pi1/locallang.xml:flexform.sheets.general.title</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<!-- twitteraccounts -->
+					<twitteraccounts>
+						<TCEforms>
+							<label>LLL:EXT:incore_twitter/pi1/locallang.xml:flexform.sheets.general.twitteraccounts</label>
+							<config>
+								<type>text</type>
+								<size>10</size>
+								<rows>5</rows>
+							</config>
+						</TCEforms>
+					</twitteraccounts>
+					<!-- hashtags -->
+					<hashtags>
+						<TCEforms>
+							<label>LLL:EXT:incore_twitter/pi1/locallang.xml:flexform.sheets.general.hashtags</label>
+							<config>
+								<type>text</type>
+								<size>10</size>
+								<rows>5</rows>
+							</config>
+						</TCEforms>
+					</hashtags>
+					<!-- twittercounts -->
+					<twittercounts>
+						<TCEforms>
+							<label>LLL:EXT:incore_twitter/pi1/locallang.xml:flexform.sheets.general.twittercounts</label>
+							<config>
+								<type>input</type>
+								<size>10</size>
+								<eval>int</eval>
+							</config>
+						</TCEforms>
+					</twittercounts>
+					
+				</el>
+			</ROOT>
+		</sGeneral>
+	</sheets>
+</T3DataStructure>

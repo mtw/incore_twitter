@@ -1,0 +1,22 @@
+2011-10-28 incore IT Solutions <office@incore.at>
+	* added CSS selectors for first and last tweet
+	  (thanks to Tomas Norre Mikkelson) 
+
+2011-10-27 incore IT Solutions <office@incore.at>
+	* updated jScrollPane to 2.0.0beta10
+
+2011-10-02 incore IT Solutions <office@incore.at>
+	* added feature to limit search results to certain hashtags
+	* updated documentation 
+
+2010-07-27 incore IT Solutions <office@incore.at>
+	* code cleanup (removed deprecated functions)
+
+2010-06-02 incore IT Solutions  <office@incore.at>
+	* changed status to 'stable'
+	* updated description
+	* updated documentation
+
+2010-05-31 incore IT Solutions  <office@incore.at>
+	* initial codebase uploaded to TER
+

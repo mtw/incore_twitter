@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_incoretwitter_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<!-- Sheet: General -->
+			<label index="flexform.sheets.general.title">General Settings</label>
+			<label index="flexform.sheets.general.twitteraccounts">Twitter account(s) (comma separated)</label>
+			<label index="flexform.sheets.general.twittercounts">Limit</label>
+			<label index="flexform.sheets.general.hashtags">Hashtag(s) (comma separated)</label>
+		</languageKey>
+	</data>
+</T3locallang>
